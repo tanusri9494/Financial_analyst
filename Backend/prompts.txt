@@ -1,0 +1,54 @@
+querryClassificationPrompt:
+`Given the user's question, "What is the growth this year?", create alternative scenarios of the question by generating close search phrases and keywords related to this topic.
+
+Based on the under past conversation also try to get an idea what user is interesed to know more about.
+
+Finally after analyzing user message return these Requirements for better searching of context from the database.
+Generate 2 search keywords.
+Generate 3 search phrases that are different variations of the original question.
+Response Format is JSON:
+{
+  "searchKeyword1": "keyword1",
+  "searchKeyword2": "keyword2",
+  "searchPhrase1": "phrase1",
+  "searchPhrase2": "phrase2",
+  "searchPhrase3": "phrase3"
+}`
+
+
+filterIrrelevantInformation:
+`Here is the Actual user Question, ${querry}.
+
+here is the information retrieved ${context}
+
+There might be some irrelevent information present in the retrieved context. 
+so it is necessary to remove them, and make sure to keep only those which actually answers user question. 
+now go ahead and plz Filter out the not so use full conetnt by correctly accessing all the results.
+
+If User question and context retrived doesnt have any realtion then just return
+{context:"No Context Available"}
+Else return the usefull context in this json format:
+{context:"filtered context"}
+`
+
+finalReplyFormatorPrompt:
+`You are busines Associate head. You work on all the companies reports and you write data driven answers. 
+You have prepared a Annual Sustainability report on Avanza, a Swedish online bank based in Stockholm, specializing in savings, investments and pensions.
+
+Now you are going to talk with users who are interested to gain insights about the company. 
+Here is the user question: ${query}
+
+For more context more context: ${usefulContext}
+
+Based on the information Available you have to format a well constructed responce with key trends and features correctly highlighted. 
+If you dont have any information regarding the question asked by the user then promptly reply saying hey sorry but i dont have information regarding it.
+`
+
+createGraphs:
+`Hey you are going to analyzie a Annual Susainabitlity report of a swedish company Avanza, its a online bank based in Stockholm, specializing in savings, investments and pensions.
+
+Now you are going to understand the context and pick up all the key highlighted datapoints and Analytics.
+Represnt the information into a Visual Graph, these graphs should visually explain the the core facts present. Using vide verity of graphs like pie chart, bar chat and box plot based on all possible relations, that gets deeper insights about the Avanza's business.
+
+if there is no statical information or data driven insights then respond with NUll.
+`

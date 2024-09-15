@@ -1,0 +1,113 @@
+###
+  {
+    "image_name": "image_75.jpg",
+    "meta_description": {
+      "top_para": "CEO's statement",
+      "bottom_para": "Rikard Josefson, CEO"
+    }
+  }
+###
+  {
+    "image_name": "image_92.jpg",
+    "meta_description": {
+      "top_para": "Stockholm in February 2022",
+      "bottom_para": "Rikard Josefson, CEO"
+    }
+  }
+###
+  {
+    "image_name": "image_155.jpg",
+    "meta_description": {
+      "top_para": "Share of female equity ownership at Avanza is increasing year after year",
+      "bottom_para": "With occupational pensions and public pensions, most pensioners will receive about 60 per cent of their salary in retirement. Most women can expect a lower pension than that. Maintaining a standard of living in retirement therefore requires private pension savings. The need is high and is expected to remain that way, as long as the pension system is designed according to the current model and the gender wage gap persists."
+    }
+  }
+###
+  {
+    "image_name": "image_235.jpg",
+    "meta_description": {
+      "top_para": "Age distribution Sweden’s population and Avanza’s customers",
+      "bottom_para": "In addition, there is great potential in young savers who have learned about and become interested in the savings market at an early age. They have good opportunities to build their savings over time."
+    }
+  }
+###
+  {
+    "image_name": "image_239.jpg",
+    "meta_description": {
+      "top_para": "Age distribution and savings capital by age",
+      "bottom_para": null
+    }
+  }
+###
+  {
+    "image_name": "image_5.jpg",
+    "meta_description": {
+      "top_para": "Avanza was founded in 1999 to offer online stock trading for individual investors at low prices. Low fees, a broad range of savings products, and education and support for investment decisions have since then been the basis of Avanza’s offer. Today Avanza is Sweden’s leading platform for savings and investments with over 70,000 investment opportunities. The offer also includes competitive occupational pension solutions and mortgages.",
+      "bottom_para": ""
+    }
+  }
+###
+  {
+    "image_name": "image_11.jpg",
+    "meta_description": {
+      "top_para": "The year in brief by quarter",
+      "bottom_para": "CEO's statement"
+    }
+  }
+###
+  {
+    "image_name": "image_46.jpg",
+    "meta_description": {
+      "top_para": "Stockholm in February 2022",
+      "bottom_para": "Rikard Josefson, CEO"
+    }
+  }
+###
+  {
+    "image_name": "image_65.jpg",
+    "meta_description": {
+      "top_para": null,
+      "bottom_para": "See definitions on pages 130–131."
+    }
+  }
+###
+  {
+    "image_name": "image_85.jpg",
+    "meta_description": {
+      "top_para": "Avanza’s 1,660,100 customers correspond to a market share of 15 per cent of Sweden’s population. Avanza’s share is strongest in urban areas and among young people aged 20–39. For example, in the Stockholm area and among men it exceeds 40 per cent in the age categories 20–29 and 30–39. 4) Avanza’s share of the Swedish population",
+      "bottom_para": "Savings capital on Avanza’s platform amounted to SEK 810 billion at year end, corresponding to a growth of 42 per cent in 2021. SEK 90 billion related to net inflow."
+    }
+  }
+###
+  {
+    "image_name": "image_91.jpg",
+    "meta_description": {
+      "top_para": "Fund capital on the platform was SEK 225 billion with a net inflow of SEK 33 billion. This gives Avanza a market share of new fund savings of 19.5 per cent 4) . Of the fund capital, just over 29 per cent was invested in Avanza’s own funds, corresponding to a growth of 2.1 percentage points in 2021. During the year, Avanza Funds’ share of the net fund inflow was 8 per cent, compared to its total market share of 1.2 per cent of the fund capital in the Swedish savings market.",
+      "bottom_para": "In the life insurance market, Avanza’s share of the premium inflow for the twelve-month period was 12.3 per cent. This makes Avanza the leader in premium inflow in the competitive pension and life insurance market, including both occupational pensions and endowment insurance. Occupational pension capital invested with Avanza totalled SEK 48 billion at year end, corresponding to growth of 39 per cent for the year. The market share of the premium inflow to non-collectively agreed occupational pensions was 7.7 per cent for the twelve-month period. This makes Avanza one of the fastest growing occupational pension companies in the Swedish market. )"
+    }
+  }
+###
+  {
+    "image_name": "image_94.jpg",
+    "meta_description": {
+      "top_para": "Development in occupational pension capital with Avanza",
+      "bottom_para": "In equity trading, Avanza in 2021 was the largest Swedish player on Nasdaq Stockholm including First North in terms of both number of transactions and turnover. Of the approximately 2 million equity investors in Sweden, 1 million were Avanza customers as of 31 December."
+    }
+  }
+###
+  {
+    "image_name": "image_98.jpg",
+    "meta_description": {
+      "top_para": "Market shares in stock trading among Swedish firms 2021",
+      "bottom_para": null
+    }
+  }
+###
+  {
+    "image_name": "image_112.jpg",
+    "meta_description": {
+      "top_para": "Share of female equity ownership at Avanza is increasing year after year",
+      "bottom_para": "With occupational pensions and public pensions, most pensioners will receive about 60 per cent of their salary in retirement. Most women can expect a lower pension than that. Maintaining a standard of living in retirement therefore requires private pension savings. The need is high and is expected to remain that way, as long as the pension system is designed according to the current model and the gender wage gap persists."
+    }
+  }
+###
